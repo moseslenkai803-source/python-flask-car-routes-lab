@@ -67,3 +67,6 @@ package-lock.json
 
 #solution
 solution.py
+
+# Additional local virtual environment
+.venv-1/
